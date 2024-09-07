@@ -1,4 +1,4 @@
-# build-webos
+# build-webos - Ganesh Chaturthi
 
 This repository contains the top level code that aggregates the various [OpenEmbedded](http://openembedded.org) layers into a whole from which [webOS Open Source Edition (OSE)](https://www.webosose.org/) images can be built.
 
